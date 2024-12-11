@@ -123,9 +123,8 @@ for x, y in zip(x_test, y_test):
 
 - The model is trained on a subset of the MNIST dataset (100 images per class) for binary classification (digits `0` and `1`).
 - Accuracy improves over epochs, demonstrating the effectiveness of the CNN implementation.
-
-  View the [interactive decision boundary plot](https://github.com/AnantVerma-58/CNN-from-scratch/docs/plot.html).
-
+-Decision boundary
+<img src="Figure_1.svg" alt="Decision Boundary" width="500" />.
 
 ---
 
