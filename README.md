@@ -1,4 +1,8 @@
 # CNN-from-scratch
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![NumPy](https://img.shields.io/badge/numpy-2.2.0-violet)
+
 Convolutional Neural Network made from only numpy and used on MNSIT dataset
 # Convolutional Neural Network (CNN) from Scratch with Numpy
 
